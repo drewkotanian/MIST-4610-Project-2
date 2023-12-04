@@ -18,7 +18,12 @@ Question: We are interested to find out, on average, which towns have the highes
 Importance:
 This question is interesting because it helps us understand which towns in Connecticut have the highest mean household price. This data is able to open doors for more potential questions from buyers, given that higher household prices indicate wealthier areas, lower crime, and often better school systems. This can give developers and realtors in the area a better idea of how to value new homes, given that a sale can be hard if it is too far above competitors' average price. The second part of the question gives us an idea about what type of residential homes are most common out of these higher priced areas. This can show us how different residential types can affect the price of a home or apartment paired with it's location.
 
+![PNG image](https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/0c31dcef-ed76-4090-b578-54ff3ccbeb00)
+
+
 ![PNG image](https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/0ff50c5b-2f6e-4ddd-907c-316b401917fd)
+
+
 
 # Question 2:
 Question: For real estate sales with a sales ratio greater than one, what is the most common property type and town of the estate?
