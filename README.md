@@ -19,7 +19,7 @@ Importance:
 This question is interesting because it helps us understand which towns in Connecticut have the highest mean household price. This data is able to open doors for more potential questions from buyers, given that higher household prices indicate wealthier areas, lower crime, and often better school systems. This can give developers and realtors in the area a better idea of how to value new homes, given that a sale can be hard if it is too far above competitors' average price. The second part of the question gives us an idea about what type of residential homes are most common out of these higher priced areas. This can show us how different residential types can affect the price of a home or apartment paired with it's location.
 
 ![PNG image](https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/0c31dcef-ed76-4090-b578-54ff3ccbeb00)
-
+Our first graph illustrates the highest average real estate sale in respective Connecticut towns. Initially, we included every town and the individual sales that occurred in each town. However, we quickly discovered that due to the large amount of towns in the data set, the graph was difficult to follow. Therefore, to illustrate our data in a more efficient manner, we filtered our town results to show towns in Connecticut with an average sale of over one million dollars. In our next visualization, we further analyze the same data.
 
 ![PNG image](https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/0ff50c5b-2f6e-4ddd-907c-316b401917fd)
 
