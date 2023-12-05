@@ -34,7 +34,11 @@ Answering this question is crucial for two main reasons. First, when real estate
 Our first graph for Question 2 illustrates the count of Towns with a sales ratio greater than one. From this graph, we can conclude that the towns of Bridgeport, Stamford, and Waterbury have the highest amount of properties with a sales ratio greater than 1 and are selling for less than their original appraisal price. Bridgeport has 18,264 properties selling for less than the appraised value, Stamford has 17,374 and Waterbury has 17,938 selling for less than the assessed value. Comparing these towns to some of the more expensive Towns from our graphs in Question 1, you can see that towns such as Darien and Willington are not even on this graph because they do not have a single property that sold for less than its appraised value. 
 
 <img width="1415" alt="PNG image" src="https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/7e9cf28c-3857-45d1-8364-8144548ae272">
-
+Two Family -> 26,408
+Three Family -> 12,586
+Vacant Land -> 3,163
+Four Family -> 2,150
+Industrial -> 228
 
 
 
