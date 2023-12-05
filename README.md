@@ -22,8 +22,7 @@ This question is interesting because it helps us understand which towns in Conne
 Our first graph illustrates the highest average real estate sale in respective Connecticut towns. Initially, we included every town and the individual sales that occurred in each town. However, we quickly discovered that due to the large amount of towns in the data set, the graph was difficult to follow. Therefore, to illustrate our data in a more efficient manner, we filtered our town results to show towns in Connecticut with an average sale of over one million dollars. In our next visualization, we further analyze the same data.
 
 ![PNG image](https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/0ff50c5b-2f6e-4ddd-907c-316b401917fd)
-
-
+As we further visualize this data, we wanted to dive deeper into the sales statistics of the 5 towns with the highest average. As a result, we created a table displaying the highest individual sale in each of the 5 towns. This helps give us insight on why the average sale for these towns is so high. 
 
 # Question 2:
 Question: For real estate sales with a sales ratio greater than one, what is the most common property type and town of the estate?
