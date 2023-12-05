@@ -31,6 +31,12 @@ Question: For real estate sales with a sales ratio greater than one, what is the
 Importance:
 Answering this question is crucial for two main reasons. First, when real estate sales have a sale ratio greater than one, it means the property is sold for less than its assessed value. This is not good because it indicates potential unfairness in how properties are valued for taxes. By figuring out the common property types and towns with this kind of sale ratio, we can spot areas where property values might be unfairly high. This discovery prompts further investigation and possible adjustments to make things fairer. Second, looking into this information helps us understand how competitive different areas are in the real estate market. If certain property types and towns consistently have sale ratios greater than one, it suggests that sellers might need to lower their prices. This could create opportunities for buyers to negotiate better deals. Knowing this gives people in the market a better idea of how to make smart decisions based on what's really happening. In summary, tackling this question is about finding out if properties are valued fairly and understanding where good opportunities might be for buyers and sellers in the real estate game.
 
+<img width="1410" alt="PNG image" src="https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/d1aff5f1-618c-4419-aef9-91832439fc70">
+
+<img width="1415" alt="PNG image" src="https://github.com/drewkotanian/MIST-4610-Project-2/assets/148258205/7e9cf28c-3857-45d1-8364-8144548ae272">
+
+
+
 
 #  Manipulations applied to the data set for analysis:
 
