@@ -38,7 +38,7 @@ Our second graph for question 2 illustrates the most common property types that 
 
 
 #  Manipulations applied to the data set for analysis:
-In leveraging Tableau to analyze the CT real estate scene from 2001 to 2020 dataset, we strategically manipulated the Excel file by incorporating essential functions. Employing the SUM function allowed us to accumulate numerical values, providing a comprehensive overview of the cumulative real estate metrics over the specified timeframe. Additionally, the COUNT function played a pivotal role in generating our insightful graphs, enabling us to visualize key trends and patterns within the Connecticut real estate market, thereby enhancing the our interpretability of the data.
+In leveraging Tableau to analyze the CT real estate scene from 2001 to 2020 dataset, we strategically manipulated the Excel file by incorporating essential functions. Employing the SUM function allowed us to accumulate numerical values, providing a comprehensive overview of the cumulative real estate metrics over the specified timeframe. Additionally, we utilized the AVG function to get the average sales figures of each town due to the sheer amount of sales each town contained. This shrinked the graph and helped make it more interpretable. Lastly, the COUNT function played a pivotal role in generating our insightful graphs, enabling us to visualize key trends and patterns within the Connecticut real estate market, thereby enhancing the our interpretability of the data.
 
 
 # Tableau packaged workbook:
